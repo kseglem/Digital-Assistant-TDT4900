@@ -24,10 +24,10 @@ Only the self-contained UI components and their styles are published here so oth
   </tr>
   <tr>
     <td>
-      <video src="docs/idle.mp4"  autoplay loop muted playsinline width="250"></video>
+      <video src="idle.mp4"  autoplay loop muted playsinline width="250"></video>
     </td>
     <td>
-      <video src="docs/talking.mp4" autoplay loop muted playsinline width="250"></video>
+      <video src="talking.mp4" autoplay loop muted playsinline width="250"></video>
     </td>
   </tr>
 </table>
