@@ -17,17 +17,6 @@ Only the self-contained UI components and their styles are published here so oth
 
 ## Animations
 
-<table>
-  <tr>
-    <th>Idle state</th>
-    <th>Speaking state</th>
-  </tr>
-  <tr>
-    <td>
-      <video src="idle.mp4"  autoplay loop muted playsinline width="250"></video>
-    </td>
-    <td>
-      <video src="talking.mp4" autoplay loop muted playsinline width="250"></video>
-    </td>
-  </tr>
-</table>
+| Idle state | Speaking state |
+|------------|----------------|
+| <img src="idle.gif"  alt="Avatar idle animation"  width="250"/> | <img src="talking.gif" alt="Avatar speaking animation" width="250"/> |
